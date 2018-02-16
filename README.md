@@ -1,6 +1,6 @@
 Abeille
 
-(Version master en dev parmanent - Apres 30/01/2018 ).
+( Version stable qui est une copie de la version Beta du 16/02/2018 ).
 
 Abeille pour Jeedom (Gateway ZiGate)
 
